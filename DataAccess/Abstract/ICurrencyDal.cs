@@ -10,8 +10,7 @@ namespace DataAccess.Abstract
 {
     public interface ICurrencyDal
     {
-        public Result<DataTable> GetCurrenciesFromAPI();
-
         public Result<bool> BulkInsertToSqlServer(DataTable dataTable);
+
     }
 }

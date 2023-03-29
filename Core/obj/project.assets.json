@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\STJ79730\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Core\\obj\\",
+      "outputPath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STJ79730\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ejyr0eu+/FQyleob0RtS8QgDvCzrmWQbSD4ypL2Cu07sZAi3/ccM0U63Uc1chz+aj2uFVzjVVKrWDYJ+//nedA==",
+  "dgSpecHash": "OH8LEudLURQxPy/02PQwgZ7kZ5VBprd6Zv3L+OpO1v6nRDPJ+EHavvlHBXApMqvJtdxO34nxycpBj/YzQdEFVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STJ79730\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\STJ79730\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",

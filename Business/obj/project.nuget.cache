@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1FilvYyMaudELUW5EYPXrtF0ODO7TUR6QPuouKY1VpGtwJun7AclG0vop4bNBm4PGVEypfaoGTrnjFPA8d6yCQ==",
+  "dgSpecHash": "rlUa+Wq+Bqnh+0izG9X6uoiYNew2gIwjJI4z2V2Bcwia2ckLSx/UvtkZY3SeEL4kFbwoHBdsKW0Om4hqAcXg5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STJ79730\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\STJ79730\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",

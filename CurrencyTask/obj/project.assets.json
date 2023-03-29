@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
+      "projectUniqueName": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
       "projectName": "CurrencyTask",
-      "projectPath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
+      "projectPath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
       "packagesPath": "C:\\Users\\STJ79730\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\CurrencyTask\\obj\\",
+      "outputPath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\CurrencyTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STJ79730\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -847,8 +847,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\Business\\Business.csproj"
+            "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\Business\\Business.csproj"
             }
           }
         }

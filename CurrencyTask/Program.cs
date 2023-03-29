@@ -1,5 +1,5 @@
-using Business.Abstract;
-using Business.Concrete;
+using Business.Services.Abstract;
+using Business.Services.Concrete;
 using DataAccess.Abstract;
 using DataAccess.Concrete;
 using Hangfire;
@@ -14,7 +14,7 @@ var hangfireConnectionStrings = "Server=NB317493; Database=hangfireCurrencyTaskD
 builder.Services.AddHangfire(x=>
     {
         x.UseSqlServerStorage(hangfireConnectionStrings);
-        RecurringJob.AddOrUpdate<CurrencyManager>(j=>j.CurrencyReadXmlWriteSql(),cronExpression: "0 * * * *");
+        RecurringJob.AddOrUpdate<CurrencyManager>(j=>j.CurrencyReadXmlToWriteSql(),cronExpression: "0 * * * *");
     });
 
 builder.Services.AddHangfireServer();

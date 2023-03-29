@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnDHUA0LorfnEhS2jBxEVzpXay8JRFPr3ietI7sowSCrNBSH5/DcOQ1/9olSVUyG6QgI23FbnxbZisVhhexWeQ==",
+  "dgSpecHash": "7/Gn9tQl9v0dy6g478iXUTlvHIarHQQS9a9Ul2S74K9XhfTO+6xzvURx7lXNMiay15FwwJMdUbtqB3lcnS34pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STJ79730\\source\\repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
+  "projectFilePath": "C:\\Users\\STJ79730\\Desktop\\Repos\\CurrencyTask\\CurrencyTask\\CurrencyTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STJ79730\\.nuget\\packages\\hangfire.aspnetcore\\1.7.33\\hangfire.aspnetcore.1.7.33.nupkg.sha512",
     "C:\\Users\\STJ79730\\.nuget\\packages\\hangfire.core\\1.7.33\\hangfire.core.1.7.33.nupkg.sha512",
